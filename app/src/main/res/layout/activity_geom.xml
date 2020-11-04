@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Geom"   android:orientation="vertical"
+    android:background="#add8e6">
+
+    <Button
+        android:layout_marginTop="38dp"
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/d_s"
+        android:text="বৃত্ত"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+
+        />
+    <Button
+
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+        android:layout_margin="2dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/b_s"
+        android:text="ঘনক্ষেত্র"
+
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"/>
+    <Button
+
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+        android:layout_margin="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/c_s"
+        android:text="
+সিলিন্ডার"
+
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"/>
+    <Button
+
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+        android:layout_margin="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/a_s"
+        android:text="আয়তক্ষেত্র"
+
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"/>
+    <Button
+
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+        android:layout_margin="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/g_s"
+        android:text="রম্বস"
+
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"/>
+    <Button
+
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:id="@+id/e_s"
+        android:text="
+সামান্তরিক"
+        android:layout_margin="2dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"/>
+    <Button
+
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/L_s"
+        android:text="ট্রাপিজিয়াম"
+        android:layout_margin="2dp"
+
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"/>
+    <Button
+
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/m_s"
+        android:text="
+বর্গক্ষেত্র"
+        android:layout_margin="2dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"/>
+    <Button
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+        android:layout_margin="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/r_s"
+        android:text="ঘুড়ি"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"/>
+    <Button
+
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+        android:layout_margin="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/S_s"
+        android:text="ত্রিভুজ "
+
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"/>
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="formulacardId" type="id">formula</item>
+    <item name="SysmbolcardId" type="id">sysmbol</item>
+    <item name="formula_card" type="id">jk</item>
+    <item name="Sysmbol_card" type="id">jkl</item>
+</resources>

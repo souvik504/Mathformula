@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lenovo.mathformuls6_12">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/hg"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".FirstActivity"
+            android:label="গাণিতিক সুত্রাবলী">
+            '
+        </activity>
+        <activity
+            android:name=".SymbolActivity"
+            android:label="গাণিতিক প্রতীক-চিহ্নসমূহ">
+            '
+        </activity>
+        <activity
+            android:name=".Class6"
+            android:label="বীজগাণিতিক সুত্রাবলী">
+            '
+        </activity>
+        <activity
+            android:name=".Class7"
+            android:label="লাভ-ক্ষতির  সুত্রাবলী">
+            '
+        </activity>
+        <activity
+            android:name=".Class8"
+            android:label="সুদকষার  সুত্রাবলী">
+            '
+        </activity>
+        <activity
+            android:name=".Class910"
+            android:label="শতকরার সুত্রাবলী">
+            '
+        </activity>
+        <activity
+            android:name=".Class1112"
+            android:label="বাইনারির   সুত্রাবলী">
+            '
+        </activity>
+        <activity
+            android:name=".Algebrasymbol"
+            android:label="বীজগণিতের প্রতীকসমূহ">
+            '
+        </activity>
+        <activity
+            android:name=".Basicsymbol"
+            android:label="মৌলিক গণিতের প্রতীকসমূহ">
+            '
+        </activity>
+        <activity
+            android:name=".Calcusyymbol"
+            android:label="ক্যালকুলাস  প্রতীকসমূহ">
+            '
+        </activity>
+        <activity
+            android:name=".Combinatsymbol"
+            android:label="সংযুক্তকারিতা প্রতীকসমূহ">
+            '
+        </activity>
+        <activity
+            android:name=".Geometrysym"
+            android:label="জ্যামিতিক চিহ্নসমূহ">
+            '
+        </activity>
+        <activity
+            android:name=".Greeksymbol"
+            android:label="গ্রীক বর্ণমালা প্রতীকসমূহ">
+            '
+        </activity>
+        <activity
+            android:name=".Linearsymbol"
+            android:label="রৈখিক বীজগাণিতিক প্রতীকসমূহ">
+            '
+        </activity>
+        <activity
+            android:name=".Logicsymbol"
+            android:label="যুক্তি চিহ্নসমূহ">
+            '
+        </activity>
+        <activity
+            android:name=".Romansybol"
+            android:label="রোমান সংখ্যাসমূহ">
+            '
+        </activity>
+        <activity
+            android:name=".Setsymbol"
+            android:label="সেট  তত্ত্ব প্রতীকসমূহ">
+            '
+        </activity>
+        <activity
+            android:name=".C_1"
+            android:label="ত্রিকোণমিতির  সুত্রাবলী" />
+        <activity
+            android:name=".C_2"
+            android:label="ধারার   সুত্রাবলী" />
+        <activity
+            android:name=".C_3"
+            android:label="সম্ভাব্যতার সুত্রাবলী" />
+        <activity
+            android:name=".C_4"
+            android:label="ফাংশনের সুত্রাবলী" />
+        <activity
+            android:name=".C_5"
+            android:label="ক্যালকুলাসের সুত্রাবলী" />
+        <activity
+            android:name=".About"
+            android:label="About Apps" />
+        <activity
+            android:name=".Geom"
+            android:label="জ্যামিতিক সুত্রাবলী" />
+        <activity
+            android:name=".D_1"
+            android:label="বৃত্ত" />
+        <activity
+            android:name=".D_2"
+            android:label="ঘনক্ষেত্র" />
+        <activity
+            android:name=".D_3"
+            android:label="সিলিন্ডার" />
+        <activity
+            android:name=".D_4"
+            android:label="আয়তক্ষেত্র" />
+        <activity
+            android:name=".D_5"
+            android:label="রম্বস" />
+        <activity
+            android:name=".D_6"
+            android:label="সামান্তরিক" />
+        <activity
+            android:name=".D_7"
+            android:label="বর্গক্ষেত্র" />
+        <activity
+            android:name=".D_8"
+            android:label="ট্রাপিজিয়াম" />
+        <activity
+            android:name=".D_9"
+            android:label="ঘুড়ি" />
+        <activity
+            android:name=".D_10"
+            android:label="ত্রিভুজ" />
+        <activity android:name=".Unit"
+            android:label="গাণিতিক  এককসমূহ"/>
+        <activity android:name=".Equ"
+            android:label="গাণিতিক সমীকরণসমূহ "></activity>
+    </application>
+
+</manifest>

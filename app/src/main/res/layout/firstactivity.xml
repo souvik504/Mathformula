@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#add8e6"
+    >
+
+    <Button
+        android:layout_marginTop="38dp"
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cls_6"
+        android:text="
+বীজগাণিতিক সুত্রাবলী"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+
+        />
+    <Button
+
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+        android:layout_margin="2dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cls_7"
+        android:text="
+লাভ-ক্ষতির  সুত্রাবলী"
+
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"/>
+    <Button
+
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+        android:layout_margin="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cls_8"
+        android:text="সুদকষার  সুত্রাবলী"
+
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"/>
+    <Button
+
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+        android:layout_margin="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cls_9-10"
+        android:text="শতকরার সুত্রাবলী"
+
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"/>
+    <Button
+
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+        android:layout_margin="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cls_11-12"
+        android:text="বাইনারির   সুত্রাবলী"
+
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"/>
+    <Button
+
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/c_1"
+        android:text="
+ত্রিকোণমিতির  সুত্রাবলী"
+        android:layout_margin="2dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"/>
+    <Button
+
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/c_2"
+        android:text="
+ধারার   সুত্রাবলী"
+        android:layout_margin="2dp"
+
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"/>
+    <Button
+
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/c_3"
+        android:text="সম্ভাব্যতার সুত্রাবলী"
+        android:layout_margin="2dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"/>
+    <Button
+    android:textColor="#fff"
+    android:background="@drawable/buttons"
+        android:layout_margin="2dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+        android:id="@+id/c_4"
+        android:text="ফাংশনের সুত্রাবলী"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"/>
+    <Button
+
+        android:textColor="#fff"
+        android:background="@drawable/buttons"
+        android:layout_margin="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/c_5"
+        android:text="ক্যালকুলাসের সুত্রাবলী"
+
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"/>
+
+
+
+
+
+</LinearLayout>
